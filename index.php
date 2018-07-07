@@ -2,7 +2,7 @@
 <html>
 <body>
 
-<h1>DevOps first project</h1>
+<h1>DevOps jithesh project</h1>
 
 <?php
 echo "version 1.0";
